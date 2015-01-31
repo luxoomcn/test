@@ -30,7 +30,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introducetogitbook"
+        }
+    },
     "title": "Sample GitBook",
     "variables": {}
 }
