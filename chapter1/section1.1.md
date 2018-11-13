@@ -1,17 +1,19 @@
 # Section1.1
 
 This is Section1.1
-https://github.com/avtcn/test/blob/master/chapter1/avt-logo.png?raw=true
 
+1. full path of image
+https://github.com/avtcn/test/blob/master/chapter1/avt-logo.png?raw=true 
+![GitHub](https://github.com/avtcn/test/blob/master/chapter1/avt-logo.png?raw=true "GitHub,Social Coding")
+
+2. image 2
 ![GitHub](avt-logo.png "GitHub,Social Coding")
 
 
 
-[github]: https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding"
 
 
 
-[github]: https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding"
 
 
 
