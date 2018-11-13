@@ -1,3 +1,3 @@
-# Chapter2
+# Vimba SDK安装及使用
 
-This is Chapter2.
+这一节主要介绍AVT Vimba SDK 软件开发包的安装及使用。
